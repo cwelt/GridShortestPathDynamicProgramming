@@ -6,5 +6,5 @@ where the only allowed movements are either right, right-down, and right-up.
 The goal is to move from the left-most column in the grid to the right-most column of the grid, 
 through cells which sum up to be the lowest total weight possible. 
 
-## screenshot sample: 
+## Screenshot Sample on a 10X10 Grid: 
 ![Grid Shortest Path Sample 10X10](GridShortestPathDynamicProgramming/screenshot.png)
